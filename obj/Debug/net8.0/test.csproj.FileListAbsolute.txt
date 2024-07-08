@@ -1,0 +1,15 @@
+/Users/israel/git/test/bin/Debug/net8.0/test
+/Users/israel/git/test/bin/Debug/net8.0/test.deps.json
+/Users/israel/git/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/israel/git/test/bin/Debug/net8.0/test.dll
+/Users/israel/git/test/bin/Debug/net8.0/test.pdb
+/Users/israel/git/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israel/git/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/israel/git/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/israel/git/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/israel/git/test/obj/Debug/net8.0/test.sourcelink.json
+/Users/israel/git/test/obj/Debug/net8.0/test.dll
+/Users/israel/git/test/obj/Debug/net8.0/refint/test.dll
+/Users/israel/git/test/obj/Debug/net8.0/test.pdb
+/Users/israel/git/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/israel/git/test/obj/Debug/net8.0/ref/test.dll
